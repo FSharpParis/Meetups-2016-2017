@@ -63,6 +63,9 @@
     <Compile Include="Dojo.fs" />
     <Compile Include="Puzzles.fs" />
     <Compile Include="Tests.fs" />
+    <None Include="..\..\Readme.md">
+      <Link>Readme.md</Link>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
